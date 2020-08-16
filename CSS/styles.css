@@ -1,4 +1,4 @@
-
+/*****TAG SELECTORS*****/
 body {
     background: #d5f6ff;
 }
@@ -22,4 +22,19 @@ h2{
 
 h3 {
     color: #55b7ef;
+}
+
+/*****CLASS SELECTORS*****/
+.circular {
+    border-radius: 100%;
+}
+
+.link:hover {
+    color: red;
+}
+
+/*****ID SELECTORS*****/
+
+#heading {
+    color: royalblue;
 }
